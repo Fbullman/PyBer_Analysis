@@ -15,3 +15,13 @@ The analysis shows the highest average fare per ride in rural cities,indicating 
 
 A Line chart helps the  visualitaion of the analysis of the total fares from January 1, 2019 to April 29th, 2019 for each of the city types.
 ![This is an image](https://github.com/Fbullman/PyBer_Analysis/blob/main/Resources/PyBer_fare_summary.png)
+
+Further analysis would have to be performed to truly identify trends based on time of year, ans or week, as four months-worth of data can't provide the full context.
+
+
+## Summary
+Based on the above analysis and results, It is recommended:
+
+- Increase number of drivers in rural areas and decrease recruitment marketing in urban areas. (This recommendation would influenced by turnover rates of employees.)
+- Introduce a flat rate fare to make the service affordable in rural areas, making the service more accessible to those who may be living in underserved service areas while still allowing PyBer to ptofi.
+- Increase marketing efforts across the board, focusing on the services affordability and short wait times based on driver availability.
